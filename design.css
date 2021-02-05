@@ -1,7 +1,11 @@
-#add-item{
+#todo-input{
+    padding-top: 10px;
+    
+}
+/* #add-item{
     font-size: large;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 10px;
     font-family: 'Times New Roman', Times, serif;
-}
+} */
